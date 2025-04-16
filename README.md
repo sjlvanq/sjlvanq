@@ -1,5 +1,11 @@
 <!-- ## Hi there 👋 -->
-![Commits](https://github.com/sjlvanq/solar2d-patternflip-game-base/raw/main/sample.gif)
+
+<!-- |▂▃▅▇█▓▒░۩۞۩    |    ۩۞۩░▒▓█▇▅▃▂| -->
+ |||
+ |-----|-----|
+ |![Commits](https://github.com/sjlvanq/solar2d-patternflip-game-base/raw/main/sample.gif) | - Hi there 👋 |
+ |  (╯°□°）╯︵ [_]\|\||▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄|
+ 
 <!--
 **sjlvanq/sjlvanq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
